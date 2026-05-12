@@ -17,8 +17,20 @@ Spring框架
 
 
 3.JDK
-JDK:java Development kit java開發工具包
-JRE java Runtime Environment 
+JDK:java Development Kit java開發工具包
+JRE java Runtime Environment Java 運行環境
+只需要訊行java項目必須安裝JRE
+開發java項目必須安裝JDK包含JRE
+Java不是解釋型語言
+HTML JS
+Java源代碼>字節碼>機械碼
+所以Java需要先編譯？
+為了實現一大特性 一次編譯 到處運行跨平台
+同一套代碼可以在不同的操作系統上運行
+如何跨平台？
+透過編譯的方式
+
+
  
  
  
