@@ -11,14 +11,14 @@
             "id": "6cdd522a24a74d21",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".gitignore",
-                "bFile": ".gitignore",
-                "aRef": ""
+                "file": "sdaasda/12121.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: .gitignore  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "12121"
             }
           }
         ]
@@ -194,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cdd522a24a74d21",
+  "active": "f511010060fdbf75",
   "lastOpenFiles": [
+    "sdaasda/12121.md",
+    "sdaasda",
     "test.md",
     "java 1.md",
     "建立鏈接.md",
@@ -208,7 +210,6 @@
     "bmi.php",
     "bmi.html",
     "Ch09-10-01.php",
-    "Ch09-09.php",
-    "Ch09-08.php"
+    "Ch09-09.php"
   ]
 }
