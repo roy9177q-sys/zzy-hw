@@ -216,6 +216,7 @@
               {
                 "id": "6cdd522a24a74d21",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
@@ -223,6 +224,7 @@
                     "mode": "source",
                     "source": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
                   "title": "java概述"
                 }
@@ -231,8 +233,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 1035,
-        "y": 165,
+        "x": 1081,
+        "y": 162,
         "width": 602,
         "height": 600,
         "maximize": false,
@@ -242,8 +244,8 @@
   },
   "active": "6cdd522a24a74d21",
   "lastOpenFiles": [
-    "java.md",
     "Java概述/java概述.md",
+    "java.md",
     "歡迎.md",
     "建立鏈接.md",
     "未命名.base",
