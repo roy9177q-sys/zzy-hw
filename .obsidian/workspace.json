@@ -11,14 +11,15 @@
             "id": "6cdd522a24a74d21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "建立鏈接.md",
-                "mode": "source",
-                "source": false
+                "aFile": "java 1.md",
+                "bFile": "java 1.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "建立鏈接"
+              "icon": "diff",
+              "title": "Diff: java 1  (Index)"
             }
           }
         ]
@@ -194,11 +195,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6cdd522a24a74d21",
+  "active": "aa603da93c280232",
   "lastOpenFiles": [
     "java 1.md",
-    "未命名.base",
     "建立鏈接.md",
+    "未命名.base",
     "歡迎.md"
   ]
 }
