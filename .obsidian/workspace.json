@@ -186,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -204,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f511010060fdbf75",
+  "active": "aa603da93c280232",
   "lastOpenFiles": [
     "test.md",
     "java 1.md",
