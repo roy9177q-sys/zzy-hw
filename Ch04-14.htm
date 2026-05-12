@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HW2 - 學生 BMI 系統登入</title>
+    <style>
+        /* --- 視覺美化 CSS --- */
+        body {
+            font-family: "Microsoft JhengHei", Arial, sans-serif;
+            background-color: #f4f7f6; /* 灰底 */
+            display: flex;
+            justify-content: center; /* 置中 */
+            align-items: center; /* 置中 */
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        .login-container {
+            background-color: white;
+            padding: 50px; /* 加大內距 */
+            border-radius: 15px; /* 圓角 */
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1); /* 陰影 */
+            width: 100%;
+            max-width: 450px; /* 設定登入框寬度 */
+            text-align: center;
+        }
+
+        h2 {
+            color: #333;
+            margin-bottom: 35px;
+            font-size: 28px; /* 加大標題 */
+        }
+
+        .input-group {
+            margin-bottom: 25px;
+            text-align: left;
+        }
+
+        /* --- 登入畫面加大重點 --- */
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+            color: #555;
+            font-size: 18px; /* 文字加大 */
+        }
+
+        input[type="text"], input[type="password"] {
+            width: 100%;
+            padding: 18px; /* 超大內距，讓格子看起來很大 */
+            border: 2px solid #ddd;
+            border-radius: 8px;
+            font-size: 18px; /* 輸入的文字也加大 */
+            box-sizing: border-box; /* 確保 padding 不撐破 */
+            transition: border-color 0.3s;
+        }
+
+        input[type="text"]:focus, input[type="password"]:focus {
+            border-color: #4CAF50; /* 聚焦時變綠色 */
+            outline: none;
+        }
+
+        input[type="submit"] {
+            width: 100%;
+            padding: 18px; /* 大按鈕 */
+            background-color: #4CAF50; /* 專業綠 */
+            color: white;
+            border: none;
+            border-radius: 8px;
+            font-size: 20px; /* 按鈕文字加大 */
+            font-weight: bold;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        input[type="submit"]:hover {
+            background-color: #45a049;
+        }
+    </style>
+</head>
+<body>
+
+<div class="login-container">
+    <h2>BMI 系統登入</h2>
+    <form method="POST" action="Ch04-15.php">
+        <div class="input-group">
+            <label>帳號 (Username)</label>
+            <input type="text" name="uname" required placeholder="admin">
+        </div>
+        <div class="input-group">
+            <label>密碼 (Password)</label>
+            <input type="password" name="upass" required placeholder="12345">
+        </div>
+        <input type="submit" value="立即登入系統">
+    </form>
+</div>
+
+</body>
+</html>
