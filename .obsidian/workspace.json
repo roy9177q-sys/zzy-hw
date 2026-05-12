@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sdaasda/3333.md",
+                "file": "Java概述/java概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3333"
+              "title": "java概述"
             }
           }
         ]
@@ -186,11 +186,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,22 +205,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "82866a291b55aef7",
+  "active": "6cdd522a24a74d21",
   "lastOpenFiles": [
+    "java.md",
+    "Java概述/java概述.md",
+    "歡迎.md",
+    "建立鏈接.md",
+    "未命名.base",
     "sdaasda/3333.md",
     "test.md",
-    "java 1.md",
     "sdaasda",
-    "建立鏈接.md",
-    "歡迎.md",
-    "test",
+    "Java概述",
     "super_replace.php",
     "send_mail.php",
     "index.php",
     "contact.html",
     "bmi.php",
     "bmi.html",
-    "Ch09-10-01.php",
-    "Ch09-09.php"
+    "Ch09-10-01.php"
   ]
 }
