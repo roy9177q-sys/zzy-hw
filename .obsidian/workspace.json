@@ -11,14 +11,15 @@
             "id": "6cdd522a24a74d21",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "java 1.md",
-                "mode": "source",
-                "source": false
+                "aFile": "java 1.md",
+                "bFile": "java 1.md",
+                "aRef": "HEAD",
+                "bRef": ""
               },
-              "icon": "lucide-file",
-              "title": "java 1"
+              "icon": "diff",
+              "title": "Diff: java 1  (Index)"
             }
           }
         ]
