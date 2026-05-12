@@ -11,15 +11,14 @@
             "id": "6cdd522a24a74d21",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "java 1.md",
-                "bFile": "java 1.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "test.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: java 1  (Index)"
+              "icon": "lucide-file",
+              "title": "test"
             }
           }
         ]
@@ -197,9 +196,19 @@
   },
   "active": "6cdd522a24a74d21",
   "lastOpenFiles": [
+    "test.md",
     "java 1.md",
     "建立鏈接.md",
-    "未命名.base",
-    "歡迎.md"
+    "歡迎.md",
+    "test",
+    "super_replace.php",
+    "send_mail.php",
+    "index.php",
+    "contact.html",
+    "bmi.php",
+    "bmi.html",
+    "Ch09-10-01.php",
+    "Ch09-09.php",
+    "Ch09-08.php"
   ]
 }
