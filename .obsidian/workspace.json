@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java概述/1. java概述.md",
+                "file": "Java概述/java概述.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. java概述"
+              "title": "java概述"
             }
           }
         ]
@@ -208,7 +208,7 @@
   "active": "6cdd522a24a74d21",
   "lastOpenFiles": [
     "java.md",
-    "Java概述/1. java概述.md",
+    "Java概述/java概述.md",
     "歡迎.md",
     "建立鏈接.md",
     "未命名.base",
