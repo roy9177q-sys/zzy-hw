@@ -174,9 +174,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "82866a291b55aef7",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -194,7 +204,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cf4a7dfa39c16b02",
+  "active": "f511010060fdbf75",
   "lastOpenFiles": [
     "test.md",
     "java 1.md",
