@@ -77,3 +77,21 @@ String str = new String("hello world");
 所有的變量都是存儲在內存中的，無論是基本數據類型還是引用類型
 
 
+基本數據類型 
+數值類型：byte short int long float double 
+非數值類型：char boolean
+byte 空間：一個字節
+
+數據類型的轉換
+
+基本數據類型的轉換
+自動轉換
+強制轉換
+盡量不使用強制類型轉換 因為存在數據精度損失的隱患
+```
+double num =10.5;
+int i =(int)num;
+```
+byte->short->int->long->float->double
+從小轉大
+引用數據類型的轉換繼承
