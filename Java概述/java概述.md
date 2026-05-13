@@ -110,8 +110,41 @@ byte->short->int->long->float->double
 貓是動物 對的
 動物是貓 不一定 
 
-實現類和接口也可ㄧ
+實現類和接口也可以進行類型轉換，因為接口和實現類本質上也是父類和子類的繼承關係
+接口就是父類，實現類就是子類
+接口是由抽象類別演變而來的
+一個類中包含抽象方法
+抽象父類
+```
+public abstract class Test1 {
+public abstract void test();
+}
+```
+非抽象子類
+```
+public class Test2 extends Test1{
+@Override
+publci void test(){
+	}
+}
+```
+抽象父類可以優化成接口
+```
+public interface Test1{
+public abstract void test();
+}
+```
+非抽象子類變成實現類
+```
+public class Test2 implements Test1{
+@Override
+publci void test(){
+	}
+}
 
+```
+接口不能強制轉換類型，因為接口無法實例化
 
-
-
+接口和抽象類的區別
+關鍵字不同
+抽象類中可以包含非抽象方法 接口全部是抽象方法
