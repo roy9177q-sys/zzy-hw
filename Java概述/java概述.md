@@ -87,6 +87,18 @@ byte 空間：一個字節
 基本數據類型的轉換
 自動轉換
 強制轉換
+```
+public class Test {
+public static void main(String[]args){
+Studend studend =new Studend();
+Person person = new Person();
+//自動類型轉換
+person = studend;
+//強制轉換類型
+student = (Student) person;
+	}
+}
+```
 盡量不使用強制類型轉換 因為存在數據精度損失的隱患
 ```
 double num =10.5;
@@ -95,3 +107,11 @@ int i =(int)num;
 byte->short->int->long->float->double
 從小轉大
 引用數據類型的轉換繼承
+貓是動物 對的
+動物是貓 不一定 
+
+實現類和接口也可ㄧ
+
+
+
+
