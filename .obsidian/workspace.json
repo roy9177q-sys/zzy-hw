@@ -233,16 +233,16 @@
           }
         ],
         "direction": "vertical",
-        "x": 1081,
-        "y": 162,
-        "width": 602,
+        "x": 1057,
+        "y": 137,
+        "width": 677,
         "height": 600,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "6cdd522a24a74d21",
+  "active": "87cb55abf8ebea12",
   "lastOpenFiles": [
     "Java概述/java概述.md",
     "java.md",
