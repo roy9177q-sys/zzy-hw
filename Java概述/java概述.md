@@ -207,3 +207,6 @@ if-else switch-case for while do-while foreach
 if-else 和 switch-case
 區別：
 1.if-else可以進行等值判斷，也可以進行邏輯判斷，switch-case只能進行等值判斷
+2.switch-case代碼結構更清晰易懂，if-else結構相對不清晰
+四種循環
+for
