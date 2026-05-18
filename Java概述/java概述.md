@@ -210,3 +210,8 @@ if-else 和 switch-case
 2.switch-case代碼結構更清晰易懂，if-else結構相對不清晰
 四種循環
 for
+```
+for(int i = 0;i<100;i++)
+```
+while 
+do
