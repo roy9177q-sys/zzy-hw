@@ -214,4 +214,25 @@ for
 for(int i = 0;i<100;i++)
 ```
 while 
-do
+do-while
+foreach(針對集合便歷的循環)增強行for循環
+循環四要素：
+初始化循環變量
+```
+while(i<100){
+Systeam.out.primtln(i);
+i++
+}
+```
+```
+int i=0;
+do{
+Systeam.out.primtln(i);
+i++;
+}while (i<100);
+```
+while和do-while的區別
+while需要先判斷循環條件，再進行循環體
+do-while第一次不需要判斷，直接執行循環體，
+循環條件
+循環體
