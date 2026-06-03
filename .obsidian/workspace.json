@@ -243,13 +243,12 @@
                   "title": "6抽象類別"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 710,
-        "y": 128,
+        "x": 1019,
+        "y": 85,
         "width": 677,
         "height": 600,
         "maximize": false,
@@ -257,7 +256,7 @@
       }
     ]
   },
-  "active": "677ad2dcc7502843",
+  "active": "6cdd522a24a74d21",
   "lastOpenFiles": [
     "6抽象類別.md",
     "Java概述/java概述.md",
