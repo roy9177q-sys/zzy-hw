@@ -243,7 +243,8 @@
                   "title": "6抽象類別"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -256,10 +257,10 @@
       }
     ]
   },
-  "active": "6cdd522a24a74d21",
+  "active": "677ad2dcc7502843",
   "lastOpenFiles": [
-    "6抽象類別.md",
     "Java概述/java概述.md",
+    "6抽象類別.md",
     "java.md",
     "歡迎.md",
     "建立鏈接.md",
